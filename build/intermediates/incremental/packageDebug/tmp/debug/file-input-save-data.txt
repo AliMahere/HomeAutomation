@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Mon May 27 08:33:53 EET 2019
+1.base=/home/ali/Downloads/0000000000000000000000000000000000000000000000002/and-nd-firebase V3/app/build/intermediates/merged_assets/debug/mergeDebugAssets/out
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=ASSET
+0.path=classes.dex
+0.set=DEX
+0.base=/home/ali/Downloads/0000000000000000000000000000000000000000000000002/and-nd-firebase V3/app/build/intermediates/dex/debug/mergeDexDebug/out
+1.path=crashlytics-build.properties
